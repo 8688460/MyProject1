@@ -5,6 +5,8 @@ public class GitTest {
 	public static void main(String[] args) {
 		System.out.println("hi  I am lokesh");
 		System.out.println("1 am Fine");
+		System.out.println("How are you");
+		System.out.println("My college is IBM");
 
 	}
 	
